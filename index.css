@@ -30,6 +30,11 @@ body {
   position: relative;
 }
 
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .container {
   overflow: auto;
 }
