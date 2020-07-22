@@ -30,6 +30,10 @@ body {
   position: relative;
 }
 
+.nav-link{
+  font-size: 25px;
+}
+
 p {
   text-align: justify;
   text-justify: inter-word;
